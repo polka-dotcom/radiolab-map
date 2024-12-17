@@ -12,16 +12,13 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
-// Serve static files from the 'public' directory
-app.use(express.static('public'));
+app.use(express.static('docs'));
 
-// Serve the locations data
 app.get('/api/locations', (req, res) => {
   const locationsData = fs.readFileSync(path.join(__dirname, 'data', 'locations.json'), 'utf8');
   res.json(JSON.parse(locationsData));
 });
 
-// Start the server
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
