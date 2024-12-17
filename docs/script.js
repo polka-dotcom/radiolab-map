@@ -61,7 +61,7 @@ function setupFilters() {
 
 function fetchLocations() {
     console.log('fetchLocations');
-    fetch('https://<polka-dotcom>.github.io/<radiolab-map>/data/locations.json')
+    fetch('https://polka-dotcom.github.io/radiolab-map/data/locations.json')
         .then(response => {
             console.log('Response recieved: ', response.status);
             if(!response.ok) {
