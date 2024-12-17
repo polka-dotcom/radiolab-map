@@ -1,0 +1,256 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "Sveriges Kreditbank",
+        "lat": 59.345667,
+        "lng": 17.059889,
+        "type": ["commercial_establishment"],
+        "year": [2024],
+        "description": "The bank in Stockholm where the robbery and hostage situation marked as the birthplace of \"Stockholm Syndrome\" unfolded. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 2,
+        "name": "Prime Minister’s Residence, Sweden",
+        "lat": 59.333270,
+        "lng": 18.073895,
+        "type": ["government_building"],
+        "year": [2024],
+        "description": "Residence of Olof Palme, who communicated with the hostages. Referenced during Kristin Enmark’s phone call with Swedish Prime Minister Olof Palme. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 3,
+        "name": "Sarah Lawrence College",
+        "lat": 40.935100,
+        "lng": -73.844300,
+        "type": ["educational_institution"],
+        "year": [2024],
+        "description": "The college mentioned in relation to Daniel Barban Levin’s involvement in a cult situation. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 4,
+        "name": "Hibernia Bank",
+        "lat": 37.753934,
+        "lng": -122.483547,
+        "type": ["commercial_establishment"],
+        "year": [2024],
+        "description": "Site of the bank robbery involving Patricia Hearst and the Symbionese Liberation Army. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 5,
+        "name": "Musée des Arts et Métiers",
+        "lat": 48.859700,
+        "lng": 2.353200,
+        "type": ["cultural_site"],
+        "year": [2024],
+        "description": "Museum in Paris housing original metric standards, including the original meter and liter. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 6,
+        "name": "National Institute of Standards and Technology (NIST)",
+        "lat": 39.152800,
+        "lng": -77.403600,
+        "type": ["research_facility"],
+        "year": [2024],
+        "description": "The American institution responsible for maintaining and advancing the standards of measurement, including work on the kilogram. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 7,
+        "name": "National Bureau of Weights and Measures (BIPM)",
+        "lat": 48.829319,
+        "lng": 2.220178,
+        "type": ["research_facility", "government_building"],
+        "year": [2024],
+        "description": "The international bureau in France where \"Le Grand K\" is kept and safeguarded. <a href=\"https://radiolab.org/podcast/how-stockholm-stuck\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 8,
+        "name": "University College London",
+        "lat": 51.524776,
+        "lng": -0.133583,
+        "type": ["educational_institution", "research_facility"],
+        "year": [2024],
+        "description": "Sophie Scott, a professor of cognitive neuroscience, discusses research on laughter. <a href=\"https://radiolab.org/podcast/science-vs-the-funniest-joke-in-the-world\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 9,
+        "name": "University of Hertfordshire",
+        "lat": 51.752000,
+        "lng": -0.239700,
+        "type": ["educational_institution", "research_facility"],
+        "year": [2024],
+        "description": "Richard Wiseman, a professor of psychology, conducted an experiment to find the world’s funniest joke. <a href=\"https://radiolab.org/podcast/science-vs-the-funniest-joke-in-the-world\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 10,
+        "name": "Mumbai (Chinchpokli)",
+        "lat": 18.983300,
+        "lng": 72.833300,
+        "type": ["urban_center"],
+        "year": [2024],
+        "description": "Mentioned by Indian comic Urooj Ashfaq as a neighborhood in Mumbai with a funny-sounding name. <a href=\"https://radiolab.org/podcast/science-vs-the-funniest-joke-in-the-world\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 11,
+        "name": "Jaffa",
+        "lat": 32.052700,
+        "lng": 34.751100,
+        "type": ["urban_center"],
+        "year": [2015, 2024],
+        "description": "Location of Maya Kosover’s birthday party, which initiated the story. <a href=\"https://radiolab.org/podcast/birthstory-2301\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 12,
+        "name": "Ukraine",
+        "lat": 50.423203,
+        "lng": 30.479829,
+        "type": ["urban_center"],
+        "year": [2015, 2024],
+        "description": "Source of eggs used for the surrogacy process. <a href=\"https://radiolab.org/podcast/birthstory-2301\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 13,
+        "name": "Kolkata",
+        "lat": 22.572645,
+        "lng": 88.363892,
+        "type": ["urban_center"],
+        "year": [2015, 2024],
+        "description": "Mentioned as the hometown of one of the surrogates interviewed in the shelter houses. <a href=\"https://radiolab.org/podcast/birthstory-2301\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 14,
+        "name": "Darjeeling",
+        "lat": 27.036007,
+        "lng": 88.262672,
+        "type": ["urban_center"],
+        "year": [2015, 2024],
+        "description": "Mentioned as the hometown of a surrogate. <a href=\"https://radiolab.org/podcast/birthstory-2301\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 15,
+        "name": "Kathmandu",
+        "lat": 27.700769,
+        "lng": 85.300140,
+        "type": ["commercial_establishment", "urban_center"],
+        "year": [2015],
+        "description": "A popular city which hosts houses for surrogates in it's outskirts <a href=\"https://radiolab.org/podcast/birthstory-2301\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 16,
+        "name": "Lincoln General Hospital",
+        "lat": 40.806862,
+        "lng": -96.681679,
+        "type": ["urban_center", "medical_facility"],
+        "year": [2024],
+        "description": "Jim Steiner worked at Lincoln General Hospital, where emergency medicine practices inspired the creation of ATLS. <a href=\"https://radiolab.org/podcast/uneasy-as-abc\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 17,
+        "name": "Hebron, Nebraska",
+        "lat": 40.167700,
+        "lng": -97.585300,
+        "type": ["urban_center", "medical_facility"],
+        "year": [2024],
+        "description": "Site of the small hospital where Jim Steiner and his family were initially taken after a plane crash. <a href=\"https://radiolab.org/podcast/uneasy-as-abc\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 18,
+        "name": "Auburn, Nebraska",
+        "lat": 40.389400,
+        "lng": -95.843600,
+        "type": ["urban_center", "medical_facility"],
+        "year": [2024],
+        "description": "Location where the first ATLS (Advanced Trauma Life Support) course was taught in 1978. <a href=\"https://radiolab.org/podcast/uneasy-as-abc\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 19,
+        "name": "Baltimore, Maryland",
+        "lat": 39.299236,
+        "lng": -76.609383,
+        "type": ["urban_center", "medical_facility"],
+        "year": [2024],
+        "description": "Home of Dr. Sharon Henry, a trauma surgery professor at Shock Trauma, who reflects on trauma care developments. <a href=\"https://radiolab.org/podcast/uneasy-as-abc\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 20,
+        "name": "Gombe National Park",
+        "lat": -4.666700,
+        "lng": 29.633300,
+        "type": ["medical_facility", "conservation_area"],
+        "year": [2010, 2024],
+        "description": "The site where Barbara Smuts encountered the chimpanzee Goblin when working with Jane Goodall. <a href=\"https://radiolab.org/podcast/lucy\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 21,
+        "name": "Lucy’s First Home",
+        "lat": 35.467600,
+        "lng": -97.516400,
+        "type": ["urban_center"],
+        "year": [2010, 2024],
+        "description": "Lucy the chimpanzee's home where she grew up with the Temerlins before being taken to Africa. <a href=\"https://radiolab.org/podcast/lucy\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 22,
+        "name": "Dakar",
+        "lat": 14.693700,
+        "lng": -17.444100,
+        "type": ["urban_center"],
+        "year": [2010, 2024],
+        "description": "The city where Lucy and the Temerlins first arrived in Africa before moving her to the reserve. <a href=\"https://radiolab.org/podcast/lucy\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 23,
+        "name": "Nature Reserve",
+        "lat": 13.314362,
+        "lng": -14.212137,
+        "type": ["conservation_area", "natural_landscape"],
+        "year": [2010, 2024],
+        "description": "The initial location where Lucy was placed before being moved to a more remote island. <a href=\"https://radiolab.org/podcast/lucy\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 24,
+        "name": "Great Ape Trust",
+        "lat": 41.543300,
+        "lng": -93.548000,
+        "type": ["research_facility", "tech_hub"],
+        "year": [2010, 2024],
+        "description": "A bonobo research center in Iowa where Sue Savage-Rumbaugh conducted experiments and developed communication with bonobos like Kanzi. <a href=\"https://radiolab.org/podcast/lucy\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 25,
+        "name": "Peter Luger Steakhouse",
+        "lat": 40.7099,
+        "lng": -73.9626,
+        "type": ["commercial_establishment"],
+        "year": [2016],
+        "description": "A famous steakhouse in Brooklyn where Amy Pearl frequently dined before developing her meat allergy. <a href=\"https://radiolab.org/podcast/alpha-gal\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 26,
+        "name": "University of Virginia",
+        "lat": 38.033554,
+        "lng": -78.507980,
+        "type": ["educational_institution", "research_facility"],
+        "year": [2016],
+        "description": "The institution where Dr. Thomas Platts-Mills works and conducted research into the alpha-gal allergy. <a href=\"https://radiolab.org/podcast/alpha-gal\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 27,
+        "name": "Blue Ridge Mountains",
+        "lat": 38.0361,
+        "lng": -78.4933,
+        "type": ["natural_landscape"],
+        "year": [2016],
+        "description": "The area where Dr. Thomas Platts-Mills encountered ticks during a hike, leading to his own meat allergy. <a href=\"https://radiolab.org/podcast/alpha-gal\" target=\"_blank\">Listen here</a>"
+      },
+      {
+        "id": 28,
+        "name": "Tick-Induced Allergies Research and Awareness Center",
+        "lat": -33.8688,
+        "lng": 151.2093,
+        "type": ["research_facility"],
+        "year": [2016],
+        "description": "The TIARA, led by Dr. Sheryl van Nunen. <a href=\"https://radiolab.org/podcast/alpha-gal\" target=\"_blank\">Listen here</a>"
+      }
+    ]
+  }
