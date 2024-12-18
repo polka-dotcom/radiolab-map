@@ -16,7 +16,7 @@ const typeOptions = {
 };
 
 function initMap() {
-    map = L.map('map').setView([22, 2], 1.3); 
+    map = L.map('map').setView([24, 2], 1.3); 
     map.flyTo([18, 2], 2, { animate: true, duration: 2 }); 
 
 
