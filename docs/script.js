@@ -16,8 +16,8 @@ const typeOptions = {
 };
 
 function initMap() {
-    map = L.map('map').setView([20, 0], 1.5); 
-    map.flyTo([20, 0], 2, { animate: true, duration: 2 }); 
+    map = L.map('map').setView([18, 2], 1.5); 
+    map.flyTo([18, 2], 2, { animate: true, duration: 2 }); 
 
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
