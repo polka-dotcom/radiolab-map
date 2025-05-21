@@ -37,10 +37,17 @@ This map provides a visual tour of real-world locations mentioned in **Radiolab*
 
 ### 🔍 Example:
 
-1. Filter by `Research Facility`  
-2. Filter by `Research Facility in 2016`  
-3. Click on a pin → view **description** and **link** to episode  
-4. Link opens in new tab → **Radiolab podcast episode page**
+1. Filter by `Research Facility`
+![image](https://github.com/user-attachments/assets/bf11c21d-6cb5-4d85-b01e-44298ff1cb42)
+
+3. Filter by `Research Facility in 2016`
+![image](https://github.com/user-attachments/assets/596d54c5-dd56-4eca-9ba6-b94ed08c35eb)
+
+5. Click on a pin → view **description** and **link** to episode
+![image](https://github.com/user-attachments/assets/5b591a61-3bd3-4e8a-99fa-63326c3ec101)
+
+6. Link opens in new tab → **Radiolab podcast episode page**
+![image](https://github.com/user-attachments/assets/484fd201-9fda-4cb7-a69f-93e33e7c0e09)
 
 ### 🧠 Notes:
 - Locations may have **multiple types** (e.g., university + hospital)
@@ -55,7 +62,7 @@ This map provides a visual tour of real-world locations mentioned in **Radiolab*
 
 While listening to Radiolab, I once missed the chance to visit a quirky **elevator museum** in NYC because I didn't know it existed. That sparked the idea: _What if fans could explore Radiolab's stories by location?_
 
-This map started as a personal passion project—a way to combine my love for tech, storytelling, and travel. From Israel to Nepal, Radiolab has painted vivid global pictures, and this tool brings them all together in one interactive space.
+This map started as a personal passion project—a way to combine my love for tech, storytelling, and travel. From Ukraine to Nepal, Radiolab has painted vivid global pictures, and this tool brings them all together in one interactive space.
 
 I hope it enhances how others experience Radiolab—by inspiring real-world journeys or just adding depth to a favorite episode.
 
