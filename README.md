@@ -1,26 +1,77 @@
-# Interactive Map with Location Pins
+# 🌍 Radiolab Interactive Map
 
-## Overview
+An interactive, full-stack web map visualizing global locations featured in **Radiolab** episodes, powered by **Leaflet.js** and **OpenStreetMap**.
 
-This project creates a web-based interactive map featuring location pins that provide detailed information upon hovering. The pins are in relation to various episodes and are an example of the locations that Radiolab has touched.
+🔗 **Live Demo**: [https://polka-dotcom.github.io/radiolab-map/](https://polka-dotcom.github.io/radiolab-map/)  
+🔗 **GitHub Repository**: [https://github.com/polka-dotcom/radiolab-map](https://github.com/polka-dotcom/radiolab-map)
 
-## Features
+---
 
-- **Interactive Pins:** Hovering over a pin on the map displays a formatted textbox with relevant information.
-- **Zoom Functionality:** Users can zoom in and out to explore different areas of the map.
-- **Location Types:** Pins can be placed on cities or specific locations such as buildings.
-- **Filtering:** A filter option allows users to limit visible locations based on various criteria, including years or tags (e.g., research labs, universities).
-- **Pin Management:** An admin can add, remove, or edit pins, including updating information and tags.
+## 📌 About the Project
+
+This map provides a visual tour of real-world locations mentioned in **Radiolab** episodes. Users can:
+
+- 📍 Zoom and explore interactive pins
+- 🏷️ Filter locations by **type** (e.g., research facility, hospital)
+- 📆 Filter by **year** mentioned (e.g., 2024, 2016, 2015, 2010)
+- 🔗 Click a pin to read context and visit the linked Radiolab episode
+
+### 🤖 Built With
+
+- **Frontend**: HTML, CSS, JavaScript, [Leaflet.js](https://leafletjs.com/)
+- **Backend**: Lightweight [Express.js](https://expressjs.com/) server
+- **Map tiles**: [OpenStreetMap](https://www.openstreetmap.org/)
+- **Data**: JSON-based custom schema for fast and flexible storage
+
+---
+
+## 🎥 Demo Walkthrough
+
+<details>
+
+![image](https://github.com/user-attachments/assets/f212b4ad-44ca-4c55-ae00-43d18acfa320)
 
 
------------------------------
-Notes: 
+### 🎯 Filters in Action
+- Apply **one or both filters**: `Location Type` and `Year`
 
-### map used: open street maps 
+### 🔍 Example:
 
-### backend: manual document approach
-to lower the learning curve and ensure a simpler backend experience as a beginner, instead of using Firebase as originally planned I've decided to use basic JSON document. It is 
-- easy to implement for beginners
-- provides total control over data structure and storage 
-- app works without relying on external services 
-- the project specs do not require real time updates, multiple user management or exponential scalability
+1. Filter by `Research Facility`  
+2. Filter by `Research Facility in 2016`  
+3. Click on a pin → view **description** and **link** to episode  
+4. Link opens in new tab → **Radiolab podcast episode page**
+
+### 🧠 Notes:
+- Locations may have **multiple types** (e.g., university + hospital)
+- Locations may appear in **multiple years** (e.g., original airdate and reruns)
+- If no matches, map will display **no pins**
+
+</details>
+
+---
+
+## 💡 Inspiration
+
+While listening to Radiolab, I once missed the chance to visit a quirky **elevator museum** in NYC because I didn't know it existed. That sparked the idea: _What if fans could explore Radiolab's stories by location?_
+
+This map started as a personal passion project—a way to combine my love for tech, storytelling, and travel. From Israel to Nepal, Radiolab has painted vivid global pictures, and this tool brings them all together in one interactive space.
+
+I hope it enhances how others experience Radiolab—by inspiring real-world journeys or just adding depth to a favorite episode.
+
+---
+
+## 🛠️ How It Works (Technical Overview)
+
+- **Map UI** is rendered using Leaflet.js and styled with basic HTML/CSS.
+- **Data is stored in JSON**, easy to edit or integrate with external systems.
+- **Express.js** handles the backend routing and JSON file access.
+- No external databases or heavy libraries—keeping it **light, fast, and portable**.
+
+---
+
+## 👩‍💻 Developed By
+
+**Navya Grover**  
+📍 CS Undergrad • Web Developer • Radiolab Fan  
+🔗 [LinkedIn](www.linkedin.com/in/navya-gr) 
